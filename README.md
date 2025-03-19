@@ -5,3 +5,9 @@ I am learning Full Stack App using NextJS, Prisma ORM, Tailwind CSS, NextUI and 
 ## Reference(s)
 
 > 1. <https://www.udemy.com/course/the-complete-guide-to-building-a-full-stack-app-with-nextjs/learn/lecture/43623002#overview>
+
+## Project Setup
+
+```powershell
+npx create-next-app@latest
+```
