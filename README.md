@@ -11,3 +11,12 @@ I am learning Full Stack App using NextJS, Prisma ORM, Tailwind CSS, NextUI and 
 ```powershell
 npx create-next-app@latest
 ```
+
+## Custom Settings
+
+```json
+{
+  "explorer.compactFolders": false,
+  "editor.linkedEditing": true
+}
+```
