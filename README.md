@@ -10,6 +10,9 @@ I am learning Full Stack App using NextJS, Prisma ORM, Tailwind CSS, NextUI and 
 
 ```powershell
 npx create-next-app@latest
+
+npm i -D tailwindcss@3
+npx tailwindcss init
 ```
 
 ## Custom Settings
